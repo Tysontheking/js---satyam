@@ -16,6 +16,8 @@ signBtn.addEventListener('click',()=>{
    alert('Your Email Address is Successfully Add')
 })
 
+document.querySelector('.main-img').src = 'https://pin.it/qMfsOhIr0';
+
 
 
 
